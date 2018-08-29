@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: CapstonePackage\nType: Package\nTitle: Package for Capstone for Coursera\nVersion: 0.1.0\nAuthor: David \nMaintainer: David <David@somewhere.net>   \nDescription: Package for Coursera.\nLicense: GPL-3\nEncoding: UTF-8\nLazyData: true\nRoxygenNote: 6.0.1\nImports: leaflet,\n    ggplot2,\n    grid,\n    dplyr,\n    scales,\n    tidyr,\n    stringi,\n    stringr,\n    readr,\n    lubridate\nSuggests: knitr,\n    rmarkdown,\n    testthat\nVignetteBuilder: knitr\n",
+    "created" : 1535559941838.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3675803987",
+    "id" : "41166AF5",
+    "lastKnownWriteTime" : 1535484030,
+    "last_content_update" : 1535484030,
+    "path" : "C:/Users/ezferda/Desktop/InitialTraining/Curso_msdr/Curso5_Capstone/CapstonePackage/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}

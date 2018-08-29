@@ -1,0 +1,10 @@
+{
+    "dialog-state" : {
+        "caseSensitive" : false,
+        "filePatterns" : [
+        ],
+        "path" : "C:/Users/ezferda/Desktop/InitialTraining/Curso_msdr/Curso5_Capstone/CapstonePackage",
+        "query" : "tbl_vars",
+        "regex" : false
+    }
+}
