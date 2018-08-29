@@ -1,0 +1,27 @@
+---
+title: "CapstonePackage"
+author: "David"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, fig.show='hold'}
+library(CapstonePackage)
+```
+
+This R package is an assignment for the "Capstone" course on Coursera, as part of the Johns Hopkins University "Mastering Software Development in R" specialization.
+
+
+## Functions in this Package
+
+* eq_clean_data
+* eq_location_clean
+* geom_timeline
+* geom_timeline_label
+* theme_timeline
+* eq_map
+* eq_create_label
