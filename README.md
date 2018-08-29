@@ -24,4 +24,4 @@ To get started, read the introduction vignette: vignette('vignette', package = '
 Travis Badge
 ------------
 
-[![Travis-CI Build Status](https://travis-ci.org/daferpe/farsdata.svg?branch=master)](https://travis-ci.org/daferpe/farsdata)
+[![Travis-CI Build Status](https://travis-ci.org/daferpe/CapstonePackage.svg?branch=master)](https://travis-ci.org/daferpe/CapstonePackage)
